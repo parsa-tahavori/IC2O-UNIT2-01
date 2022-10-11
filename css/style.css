@@ -14,6 +14,10 @@
   padding-top: 15pt;
 }
 
+body {
+  background-color: #329a4c;
+}
+
 /* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
 */
 .mdl-ripple {
